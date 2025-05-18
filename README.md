@@ -69,6 +69,6 @@ The following environment variables are required:
 - `MONGODB_URI`: Your MongoDB connection string
 - `JWT_SECRET`: A secure string for JWT token generation
 
-## Security Note
+## Disclaimer
 
-Never commit the `.env` file to version control. It contains sensitive information that should be kept private.
+The project was done mostly through vibe coding.
